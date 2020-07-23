@@ -1,0 +1,6 @@
+POST http://localhost:8080/mvc01_war/app/login1
+Content-Type: application/json
+
+{"id": 1,"birth": "1999-10-16"}
+
+###
